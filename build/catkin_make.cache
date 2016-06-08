@@ -1,0 +1,2 @@
+depthsense_cam:detect
+-DCATKIN_DEVEL_PREFIX=/home/luan/depthsense/devel -DCMAKE_INSTALL_PREFIX=/home/luan/depthsense/install -G Unix Makefiles
