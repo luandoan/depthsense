@@ -1,4 +1,4 @@
-author: Luan Doan
+Luan Doan
 CMS Lab - VT
 
 # depthsense
